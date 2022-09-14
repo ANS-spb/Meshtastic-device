@@ -15,7 +15,7 @@
 - meshtastic-diy-v1
 - meshtastic-diy-v1.1
 
-Оригинальное описание репозитория:
+## Оригинальное описание репозитория:
 
 ![GitHub release downloads](https://img.shields.io/github/downloads/meshtastic/meshtastic-device/total)
 [![CI](https://img.shields.io/github/workflow/status/meshtastic/Meshtastic-device/CI?label=actions&logo=github&color=yellow)](https://github.com/meshtastic/repo/actions/workflows/main_matrix.yml)
