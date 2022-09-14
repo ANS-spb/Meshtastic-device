@@ -1,4 +1,21 @@
-# Meshtastic Firmware
+# Meshtastic Firmware Cyrillic (RU) OLED version
+
+Форк оригинального Meshtastic-firmware с поддержкой кириллицы на OLED дисплеях по умолчанию (с включённой опцией "-D OLED_RU" в plaftormio.ini для некоторых вариантов сборки).
+
+На данный момент, кириллица по умоочанию включена для вариантов сборки:
+- tbeam
+- tbeam0.7
+- heltec-v1
+- heltec-v2.0
+- heltec-v2.1
+- tlora-v1
+- tlora_v1_3
+- tlora-v2
+- tlora-v2-1-1.6
+- meshtastic-diy-v1
+- meshtastic-diy-v1.1
+
+Оригинальное описание репозитория:
 
 ![GitHub release downloads](https://img.shields.io/github/downloads/meshtastic/meshtastic-device/total)
 [![CI](https://img.shields.io/github/workflow/status/meshtastic/Meshtastic-device/CI?label=actions&logo=github&color=yellow)](https://github.com/meshtastic/repo/actions/workflows/main_matrix.yml)
