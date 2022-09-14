@@ -7,8 +7,8 @@ SHORT_VERSION=`bin/buildinfo.py short`
 
 OUTDIR=release/
 
-rm -f $OUTDIR/firmware*
-rm -r $OUTDIR/* || true
+#rm -f $OUTDIR/firmware*
+#rm -r $OUTDIR/* || true
 
 # Make sure our submodules are current
 git submodule update 
